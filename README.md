@@ -29,3 +29,7 @@ De voorbeelden die in de video's worden behandeld, kan je op [github pagina van 
 - Hoofdstuk 10: CSS frameworks - bootstrap. Geen video.
 
 - [Hfdst 11: CSS Animatie](https://www.youtube.com/watch?v=QKv9y_0jOgM&list=PLgKzo3JzWykMdJ40PsiCJxQhrk32nIg0E) 
+
+## Belangrijke opmerking.
+Bij de opname van de video's werd via een commando in de console de live webserver gestart om onze webpagina's in de browser te testen.
+Dit wordt niet meer op deze manier gedaan. Hiervoor gebruiken we nu een Visual Studio Code extensie: Live Server. Na installatie van deze extensie (bekijk hiervoor de volgende [video](https://www.youtube.com/watch?v=S1JQsZF2g2Q&list=PLgKzo3JzWykNDcpJ8XX73w7WTQ_iiB_nD&index=4&t=10s)). Na installatie bevat VSC onderaan een icoon om de Live Server te starten. Deze zullen we dus gebruiken om onze webpagina's in de browser te bekijken.
